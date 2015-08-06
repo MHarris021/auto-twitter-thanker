@@ -1,0 +1,6 @@
+spring:
+  data:
+      mongodb:
+        host: base.local
+        port: 27017
+        database: premier
